@@ -5,7 +5,6 @@ This repository holds the completed project of the Computational Social Science 
 
 
 ## Project Structure
->>>>>>> elisa-fixes
 
 ```text
 Esame_Elisa/
@@ -97,7 +96,7 @@ You only need Python 3 installed. Required libraries are:
 2. **Clone** the personal repository automatically created by GitHub Classroom:
 
    ```bash
-   git clone <URL-del-tuo-repo> 
+   git clone <URL-del-tuo-repo>
    cd <nome-repo>
    ```
 
@@ -113,7 +112,7 @@ You only need Python 3 installed. Required libraries are:
 
    ```bash
    git add .
-   git commit -m "C4CSS exam, Vassallo — Replication study: sentiment dictionaries on BBC News"
+   git commit -m "Consegna esame c4ss — BBC sentiment analysis"
    git push origin main
    ```
 
@@ -126,4 +125,4 @@ You only need Python 3 installed. Required libraries are:
 - Articles were downloaded from official BBC URLs and saved as  `.txt` files in `Esame_Elisa/Data/BBC_news/`.
 - The analysis uses **length‑normalized scores** (`score / word_count`)to replicate the content‑length bias correction discussed in the reference study.
 - Sport is the most positive category on average, health is the most negative while technology is neutral or slightly positive depending on the referred lexicon.
-- Generally, the goal of the project is to emulate the methodology recommended by Chan et al. (2021), rather than duplicate the original data set, in order to show how various sentiment lexicons function on professionally written news articles. 
+- Generally, the goal of the project is to emulate the methodology recommended by Chan et al. (2021), rather than duplicate the original data set, in order to show how various sentiment lexicons function on professionally written news articles.
