@@ -1,0 +1,71 @@
+Title: Aspirin can reduce the risk of cancer - and we're starting to understand why
+URL: https://www.bbc.com/future/article/20260420-cancer-how-aspirin-may-be-a-powerful-new-weapon-against-tumours
+
+
+
+The 4,000-year-old drug, most commonly used to treat pain, prevents certain tumours from forming and spreading across the body – findings that are already changing health policies.
+Nick James, a British furniture maker in his mid-40s, first became concerned about his health after his mother died from cancer and his brother, along with several other family members, later developed bowel cancer. He opted to undergo genetic testing, and was found to be carrying a faulty gene which causes Lynch Syndrome, a condition that significantly increases the risk of developing that type of cancer.
+Help came from an unexpected place, however, when James became the first person to sign up for a clinical trial that set out to test whether a daily dose of aspirin – the over-the-counter painkiller – could protect against developing cancer.
+Depending on the form the genetic fault takes, 10-80% of people with Lynch syndrome will get bowel cancer during their lifetime. But so far, things are looking good for James. "He's been on aspirin now with us for 10 years without any cancer so far," says John Burn, a professor of clinical genetics at Newcastle University, who led the trial. 
+It sounds almost impossible to believe, yet there have long been indications that the drug might reduce the chances of colorectal cancer spreading, or even occurring in the first place. In the past year, a string of trials and studies have strengthened such evidence. Some countries have already changed their medical guidelines to include the pill as a first line of protection for those who are most at risk (though experts stress that this should only be done under your doctor's supervision). And we're finally beginning to understand the reasons why it has such a mysterious effect. 
+
+
+
+Ancient roots
+
+The latest findings offer a remarkable new twist in the tale of one of our oldest and most effective medications. In the late 19th Century, archaeologists uncovered 4,400-year-old clay tablets from the ancient Mesopotamian city of Nippur – in what is now Iraq – offering lists of a range of medicines crafted from botanical, animal and mineral compounds. Among them were instructions for a substance derived from the willow tree. We now know that this contains a chemical called salicin, which the body can convert into salicylic acid that helps to calm pain. It is similar in structure to modern aspirin – acetylsalicylic acid – but more irritating for the stomach. Other ancient civilisations – including the Egyptians, Greeks and Romans – also used the remedy.
+Although aspirin works through a different mechanism compared to salicin, efforts to study its effect were instrumental in the development of the modern drug.
+The modern study of the compound kicked off in 1763, when the English cleric Edward Stone wrote to the Royal Society to describe the fever-fighting properties of dried and powdered willow bark. About a century later, scientists managed to synthesise salicylic acid into the less corrosive acetylsalicylic acid, and put it on the market under the brand name Bayer.
+Fast forward yet another century, and scientists started noticing some unexpected benefits of aspirin on preventing cardiovascular disease – reducing the risk of blood clots by making the blood thinner and the blood platelets less sticky. For this reason, organisations like the UK's National Health Service recommend low daily doses for people with a high risk of heart attack or stroke.
+By 1972, the potential benefits had extended to the prevention of cancer, with an attention-grabbing study of mice injected with tumorous cells. The American scientists found that lacing the animal's drinking water with aspirin significantly reduced the risk that the cancer would spread across the body – a process called metastasis – compared to mice who were not given the drug.
+While discovery generated some excitement, "it wasn't immediately clear how this would impact clinical practice," says Ruth Langley, a professor of oncology and medical trials at University College London. It wasn't obvious if the drug would have the same effect in humans, after all – meaning that the finding remained an obscure fascination rather than a potentially life-changing treatment.
+A turning point came in 2010, when Peter Rothwell, a professor of clinical neurology at the University of Oxford in the UK, went back and re-investigated the much more abundant data on aspirin as a prevention of cardiovascular disease. In his analyses, the drug appeared to reduce both the incidence and spread of cancer, prompting renewed interest in both the power of aspirin to help fight the disease, and the reasons that it does so.
+Proving that aspirin can prevent cancer in the general population is a challenge, however. In an ideal world, researchers would recruit a large sample of people. Half would take aspirin, while the rest would take a placebo pill – and you would then compare which had the highest rates of the disease. It can take many decades for cancer to occur in the first place, however, meaning that a randomised controlled trial would take a very long time to conduct at a huge expense. "It's almost impossible, actually," explains Anna Martling, a professor of surgery at the Karolinska Institute in Sweden.
+For this reason, scientists have turned their attention to specific groups, such as those who have already had cancer or those who are genetically susceptible to developing it.
+
+
+
+Mounting evidence 
+
+It is here that John Burn's study of patients with Lynch Syndrome, which vastly increases the risk of colorectal and other forms of cancer, enters the picture. In 2020, Burn published the results of a landmark randomised controlled trial of 861 patients with the condition. Following the participants for 10 years, his team discovered that people who had taken a daily 600mg dose of aspirin for at least two years effectively halved their risk of colorectal cancer.
+His team have since conducted a second trial, which is currently under peer review. The early results suggest that a much lower dose of aspirin (75-100mg)  is just as effective – if not more. "The people who took aspirin for two years had 50% fewer cancers in the colon," he says. "What we want to do is keep on going for a few more years because the data is going to get better as time goes on.” (Nick James, the very first patient to enter the trial, was among the ones who appeared to have benefited.)
+The low dose (75-100mg) is similar to what people take for the prevention of cardiovascular events. That matters, since aspirin can come with unpleasant side effects, including indigestion, internal bleeding, stomach ulcers and even brain haemorrhage, and lower dose can be much better tolerated. The findings are already affected policy. "In the UK, guidelines have been changed as a result of our findings," says Burn. Since 2020, these now recommend that people with Lynch Syndrome should start taking aspirin at about 20 years of age for most people, or 35 for less severe cases.
+Given these results, it is natural to wonder whether aspirin could benefit other patient groups. Martling has investigated whether aspirin can reduce the risk of metastasis in people who've already had a diagnosis of colorectal cancer. Her team focused on people with common mutations in their bowel or rectal tumours. "Of all patients getting colorectal cancer, 40% have one of the mutations we have studied," she explains. Previous research had suggested these people may respond particularly well to aspirin. 
+The three-year randomised controlled trial involved 2,980 patients, with one group taking 160mg of aspirin daily, starting within three months of surgery, and the other receiving a placebo. The aspirin-treated group had less than half the risk of recurrence – a highly significant effect size. "That's a large group of the patients," says Martling. What's more, both Martling's and Burn's trials showed very few cases of adverse effects in the people taking aspirin.
+Martling's study, published in September 2025, quickly changed practice in Sweden. Since January 2026, bowel cancer patients in the country have started being screened for the mutations in question, and offered a low dose of aspirin if they have them.
+It is not yet clear whether aspirin could protect patients from other cancers as well – but we may soon have some answers. Langley is currently running a large randomised controlled trial with 11,000 participants who've had colorectal, breast, gastroesophageal, or prostate cancer in the UK, Ireland and India. Her team will be looking at the effect of a daily 100mg or 300mg preventative dose of aspirin, and they're hoping to have results next year.
+"We really are the first to explore the role of aspirin in other tumour types," she says. She is aiming to replicate Martling's findings for colorectal cancer, as well as gathering funds to investigate the implications of the specific mutations in the other cancers, too. The replication is key, she says, as authorities ideally want two sets of trial results before they make recommendations for patients.
+
+
+
+How does it work?
+
+The precise mechanism by which aspirin prevents cancer has long remained a mystery. "This fantastic drug works both within the cell and outside the cell," explains Martling, so there could be several different mechanisms involved. Her own works implicates an enzyme within the cell called Cox-2, which we know is inhibited by aspirin. This enzyme helps produce hormone-like compounds called prostaglandins, she says, which in turn activates a signalling pathway that can lead to uncontrolled cell growth. 
+Recent research by Rahul Roychoudhuri, a professor of cancer immunology at the University of Cambridge in the UK, and his colleagues, suggests there may be another mechanism involving a gene that inhibits T-cells in the immune system from spotting and killing metastatic cancer cells. 
+They found that this gene can be activated by a clotting factor called thromboxane A2, which – as the name suggests – helps the blood to form clots when we have been injured. Since aspirin inhibits thromboxane, it may therefore render cancerous cells more visible to the immune system. This came as a surprise to the team.
+Roychoudhuri's research was conducted on mice, so we can't be sure whether the results would also hold for humans. But intriguing research by Langley and her colleagues has shown that people who have had colorectal cancer or gastroesophageal cancer have much higher levels of thromboxane than healthy individuals – even up to six months after successful treatment, suggesting it may be a driver of metastases in humans, too.
+
+
+
+A cure all?
+Exactly who should be taking aspirin regularly, and when, remains a matter of debate. Some researchers believe that the combined benefits for cardiovascular disease and cancer should inspire wider uptake. Burn, who has taken aspirin as a preventative measure in the past, is optimistic about its potential for public health. "We did a big study where we showed that if every 50-something year-old took a baby aspirin for ten years, the national mortality from all causes would be reduced by 4%," says Burn.
+Most researchers argue that it should only be restricted to particular patients, however. "It's one thing to give aspirin to a cancer population but it's a totally different thing to offer the healthy population something that might harm them as well," says Martling. That's because aspirin can have serious adverse effects, and it isn't likely to work for all people or all cancers. 
+If you've got Lynch Syndrome or you've been treated for bowel cancer, however, it may be worth enquiring whether a regular low dose might be beneficial. "Always speak to a doctor or other healthcare professional before starting aspirin," Langley says.
+As the research on aspirin keeps building, there may be surprises yet to come. But will the long history of aspirin extend another 4,000 years into the future? Perhaps our descendants will be using versions of the drug in ways we cannot even begin to imagine.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

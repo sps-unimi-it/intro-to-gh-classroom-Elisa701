@@ -1,0 +1,37 @@
+Title: AI experts claim Brexit shortages are driving farming innovations
+URL: https://www.bbc.com/news/articles/c2ky772lqp9o
+
+
+
+Ten years after Brexit there is an increasing interest in automating farming tasks as agriculture copes with fewer seasonal workers.
+
+A team at the University of Warwick wants to help cider makers automate the process of pruning their apple trees due to the sheer size of the job and the difficulty involved in recruiting the necessary staff.
+"We don't have enough people to do this," artificial intelligence (AI) engineer Muhammad Hashir said.
+"It's 100,000 trees on a site as big as that of Thatchers cider maybe, and there's just not enough staff to do it every year.
+"They target a time of three minutes per tree which is very hard to do especially when you have windy days, rainy days or you just have other tasks on the site that need to be done."
+
+
+Would farmers and fishermen back Brexit today?
+
+Within a couple of years of Brexit, the government at that time was warning that labour shortages "caused by Brexit and accentuated by the pandemic" were badly affecting the food and farming sector.
+Currently, temporary workers such as fruit pickers are covered by seasonal worker visas, which are subject to an annual quota.
+Home Office figures showed 38,039 seasonal worker visas were issued in the year to June 2025, up by 11% compared with the previous year, reflecting the increased annual quota.
+Hashir and his colleagues use a drone to build up a 3D model of the trees in the orchard and AI spots branches that need a trim.
+The next stage in the project is a robot with an arm and a cutting tool that can be left to get on with the job.
+The University of Warwick sees a lot of potential in agricultural automation.
+
+
+They are bringing together engineers from Warwick Manufacturing Group with the agricultural research at Warwick's crop centre.
+They aim to match teams with expertise in robots and self-driving vehicles, with the problems of a farming sector that's left with fewer people to do seasonal farm work after Brexit, according to government figures.
+They believed productivity on a farm could be improved without inventing more and more complex and expensive robots.
+A strawberry picking robot is now possible, but instead the team here are trialling a small robot vehicle designed to take strawberries from the picker to quality control
+About a quarter of a strawberry picker's day is spent walking around with baskets of strawberries.
+Letting the robot do that means pickers spend more time actually picking.
+The aim is not to replace everyone working on a farm, but to maximise productivity, and also offer workers the chance to improve their skills and value to the business.
+"It's definitely becoming harder and harder to get the labour," said Ben Ayre, an engineer at Warwick Agri-Tech.
+"Having these robotics enables us to get the most out of all of the the staff that we do have to be able to be as productive as possible."
+Alicia Feledziak, from Warwick Agri-Tech, was also keen to stress the opportunities for farm workers.
+"There might be some roles where instead of doing some of the more laborious tasks you might start to look at having workers be up-skilled to things like fleet management," she said.
+Before Brexit, with freedom of movement, it was pretty frictionless for farms to find the seasonal workers they needed to plant, pick and prune.
+Now farms and workers must navigate a visa system, with limits on numbers and rules that can make finding the right staff at the right time difficult.
+That explains the renewed interest in automation, and represents a real opportunity says the University of Warwick - not just for research and new companies making the farming robots of the future but also for training the workers who will look after and manage them.

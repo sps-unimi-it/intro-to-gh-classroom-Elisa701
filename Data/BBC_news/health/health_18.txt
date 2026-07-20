@@ -1,0 +1,66 @@
+Title: Blueprint of a cure: The rare people who are invulnerable to HIV
+URL: https://www.bbc.com/future/article/20260604-why-some-rare-people-are-invulnerable-to-hiv
+
+
+
+Scientists are studying the few extraordinary individuals whose bodies seem able to naturally defend themselves from HIV in the hope of finding new cures.
+For more than three decades, Loreen Willenberg, a 71-year-old landscape designer living in Sacramento, California, was known to HIV scientists as an intriguing anomaly.
+Willenberg tested positive for HIV in 1992. Yet, instead of overwhelming her immune system and ultimately killing her, the virus remained suppressed in her body. She was able to live an ordinary life for many decades – despite never receiving any medication for the disease.
+"My doctors have always told me that my immune response to HIV was very unique," she told me in an interview in August 2025. "For many years, they didn't know for sure, but they knew I was different."
+Willenberg, who passed away in April this year, was arguably the world's most famous "elite controller", a term given to a tiny proportion of HIV positive individuals whose bodies somehow keep the virus under wraps without interventions. Approximately 0.5% of all people infected with HIV make up this extraordinary group. And scientists believe they hold the key to helping millions of people around the world beat HIV.
+Willenberg's own survival with the virus was the more remarkable given that, in 2022, she was diagnosed with stage four cancer, which spread from her lungs to her brain. She responded well to treatment: the surgery and intense courses of medication shrank her tumour. By suppressing her immune system to fight the cancer, however, the medication should have allowed the HIV lurking in her body to resurface and spring to life.
+But when researchers scoured Willenberg's cells for the presence of HIV, they still found no detectable trace of the virus.
+We analysed billions of cells, there's really nothing – Xu Yu
+That's why, at the 2025 International Aids Society conference, Xu Yu, a professor of medicine at the Ragon Institute of Mass General Brigham, MIT and Harvard who has hunted extensively for signs of HIV in Willenberg's body, stood before a room on scientists and made a dramatic statement. Willenberg, she declared, was probably completely rid of HIV.
+This remarkable news was bittersweet. A few months later, Willenberg succumbed to the cancer she had been battling, passing away in April 2026. The legacy she has left behind, however, is profound – proof that one of the most devastating infectious diseases to emerge in the past century can be beaten.
+"Some elite controllers like Loreen, they just don't have any viable virus [in their bodies] anymore," says Yu. "After we analysed billions of cells, there's really nothing." This is particularly significant, she says, as it implies that it is possible, in extremely rare circumstances, for the immune system to eventually eradicate HIV on its own. 
+There is similar optimism surrounding another extensively studied elite controller from Argentina, an anonymous woman in her thirties known as the Esperanza (Spanish for "Hope") patient, who is also thought to be potentially cured of HIV too. 
+Buoyed by these remarkable stories, scientists like Yu have been delving deeper into the biology of elite controllers. They believe these people's remarkable immune systems hold clues to developing next-generation treatments for the 40.8 million people living with HIV.
+In the coming years, this may help point towards a cure.
+
+
+
+Gene deserts
+
+Typically, when a person is initially infected with HIV (Human Immunodeficiency Virus) it spreads rapidly through their body. By replicating by splicing its genetic material into the DNA of cells, the virus moves from the bloodstream to the lymph nodes before beginning to shut down the immune system by targeting and destroying white blood cells, which are a key part of the immune system. 
+If the virus is untreated, patients can go on to develop Aids (Acquired Immune Deficiency Syndrome), where their immune system becomes unable to defend them from other infections. 
+In the mid 1990s, the development of effective anti-HIV drugs known as antiretrovirals represented a game-changing moment in the fight against Aids. These drugs block HIV from replicating, preventing the complete immune system collapse that ultimately leads to people's deaths.
+This allows millions of people to live relatively normal, healthy lives despite the infection. 
+In April 2026, a study even revealed that the widespread rollout of antiretrovirals in hotspots of the HIV epidemic, such as KwaZulu-Natal in South Africa, had altered the evolutionary trajectory of the human population. Because the drugs saved so many lives, they prevented changes to the human genome which would otherwise have taken place as a consequence of natural selection.
+
+
+
+The intact viruses are there, but they're parked in an area which doesn't allow them to do anything anymore
+
+But most of the time, these drugs never completely eliminate the virus. HIV still establishes reservoirs in various tissues, including the blood, lymph nodes, brain and intestines, which allow it to hide out in a dormant state for many years, often mutating to prevent immune cells from finding and killing it.  
+In elite controllers like Willenberg and the Esperanza patient, though, these rules don't seem to apply. 
+Early research results suggest that elite controllers are able to suppress the virus without the assistance of any medication, because they carry unique genes that turbocharge their adaptive immune system – the body's long-term memory of viruses and other pathogens. Specifically, in elite controllers, it appears that one arm of its defences, called CD8+ T cells, are especially equipped to inhibit the HIV virus.
+But that still left the question of how these turbocharged CD8+ T cells can suppress HIV seemingly indefinitely. In 2020, Yu and others carried out a study of 64 elite controllers, which revealed that they appeared to have locked the virus away in vast segments of DNA known as gene deserts, where it can do little harm.
+All of us carry gene deserts. They represent swathes of the genome which appear to contain nothing of relevance. It seems that elite controllers' immune cells are able to push the virus into these regions of genetic code, far away from any active genes that actually have an impact on their bodies. Because of this, HIV is essentially trapped, unable to hijack the genetic machinery it needs to replicate and spread.
+"The intact viruses are there, but they're parked in an area which doesn't allow them to do anything anymore," says Yu. "This… really gave us a blueprint of what a functional cure might look like."
+What's more, research has since shown that the same phenomenon can occur in another special group of HIV-infected individuals called "post-treatment controllers".
+One of the biggest challenges in curing HIV is the virus hiding in reservoirs deep in the body
+Unlike elite controllers, these people did require antiretroviral drugs to initially suppress the virus. However, after taking the medications for two decades, they have been able to cease treatment without experiencing any resurgence of HIV.
+It is thought that in these cases, the drugs may help to suppress HIV, enabling the immune system to force the virus into gene deserts.
+
+
+
+Natural killer cells
+
+The CD8+ T cells may only constitute part of the story, though. In the past few years, further investigations have pinpointed another population of immune cells which may also play a role in herding HIV into gene deserts.
+A recent study found clues in a group of patients in France, known as the Visconti cohort, the world's largest collective of post-treatment controllers. The 30 Visconti individuals were initially treated with antiretrovirals, but have been able to live with the virus without their medication, in some cases for more than 20 years. 
+The study showed that the Visconti patients carry gene variants influencing the behaviour of their natural killer cells, a type of immune cell which can detect and destroy virus-infected cells. Unlike CD8+ T cells, natural killer cells are part of the innate immune system, the body's first line of defence against pathogens, which is present from birth.
+Elite controllers seem to have especially active natural killer cells too, according to Christina Thobakgale, who heads the immunology division at the University of the Witwatersrand and the National Health Laboratory Service in South Africa. Thobakgale led a study which showed that elite controllers have more natural killer cells expressing a molecule called CD69, a so-called biomarker which indicates that these cells are alert and ready to respond.
+These primed natural killer cells might be particularly widespread throughout the bodies of elite controllers, says Thobakgale. "They might also be living and functioning in locations deeper in the body, like the gut, lymph nodes or reproductive tract where HIV tends to hide and replicate," she says. 
+If further research proves this to be true, therapeutic vaccines could attempt to activate natural killer cells not just in the blood, but in the lymph nodes and other tissues with the aim of mimicking the biology of elite controllers. 
+"One of the biggest challenges in curing HIV is the virus hiding in reservoirs deep in the body," says Thobakgale. "Natural killer cells that are highly active and efficient might help flush out and destroy these hidden pockets of HIV."
+
+
+
+The role of women
+
+Initially, it may be that such treatments are most beneficial for women living with HIV, says Yu.
+Women comprise the majority of elite controllers, and new research has revealed that the female innate immune system is more likely to have natural killer cells better equipped for tackling HIV. Historically, though, the majority of trials aimed at eradicating the virus have been carried out in men. "We don't study females enough in cure-related trials and studies," says Yu. "But females have a two-to-five-fold higher probability of becoming elite controllers." 
+Willenberg herself remained eager to see how the insights gleaned from studying elite controllers such as herself can be used to improve outcomes for those still living with the virus.
+"I would love to live long enough to see the end of the epidemic," Willenberg said just a few months before she passed away. "If my contributions have advanced the science, then that has been quite an honour. I will continue to try and be that beacon of hope for people for as long as I'm able." 
+She may not have lived long enough to see the epidemic end, but the hope she provided continues.

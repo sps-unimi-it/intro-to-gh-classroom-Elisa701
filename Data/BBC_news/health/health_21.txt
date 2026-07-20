@@ -1,0 +1,75 @@
+Title: 'It's a very unique biological specimen': What menstrual blood can reveal about your health
+URL: https://www.bbc.com/future/article/20260306-what-menstrual-blood-can-reveal-about-your-health
+
+
+
+From endometriosis and cervical cancer, to diabetes, vitamin D deficiency and pollution exposure, scientists are finding period blood offers a window into women's wellbeing.
+Like many women who menstruate, Emma Backlund prefered not to think too much about the blood she shed every month. But when biotech startup NextGen Jane asked for her period blood in 2023, Backlund readily saved eight tampons from one menstrual cycle and popped them off in the post to the firm's laboratory in Oakland, California. 
+Sure, it was an unusual request, but a relatively fuss-free one she was more than happy to help with – especially if it meant future girls avoiding the painful ordeal she faced growing up. 
+"When I turned 11, I got my first period and I thought I was dying," says Backlund, a 27-year-old graduate student from Minnesota, in the US. "I remember telling my mum that I needed to go to the hospital. And pretty much every period I've had since then was like that. I would throw up every month. I missed out on social activities and school. It was just this burning, stabbing, gut-wrenching pain that continued." 
+It took Backlund 13 years to discover she had endometriosis, a chronic, debilitating disorder in which the uterus's tissue lining starts to grow outside of it. Endometriosis causes 190 million people worldwide – which is a tenth of the world's women at reproductive age – to suffer from heavy periods, agonising pelvic pain, bladder or bowel problems and even infertility. 
+What's worse, it usually takes between five and 12 years to get a diagnosis, like it has Backlund. Confirmation requires a laparoscopy, a medical procedure in which a small camera is inserted in the pelvic cavity, says Ridhi Tariyal, NextGen Jane's cofounder and chief executive.  
+That's why Tariyal and a handful of other innovative startup leaders are working to build a better diagnostic test – one that promises to be quicker, cheaper, and less invasive than surgery, and could reveal much more than a woman's endometriosis diagnosis.     
+The secret, they believe, lies in period blood.
+
+
+
+A medical gold mine
+
+Urine samples have been examined by physicians since Babylonian and Sumerian times, some 6,000 years ago. Stools and venous blood followed suit one and two centuries ago. But period blood hasn't ever received much clinical attention. Yet, it is a complex fluid: half of it is regular blood, while the remainder comprises proteins, hormones, bacteria, endometrial tissue and cells sloughed off from the vaginal cavity, cervix, fallopian tubes, ovaries, and more.
+"You get access to cell types and other molecular signatures that you just don't get from whole blood, saliva, and other sample types," says Tariyal. "It's essentially a natural biopsy that's providing you insight into the reproductive organs." Her firm, NextGen Jane, sends out specially designed cotton tampons to volunteers like Backlund and has analysed more than 2,000 menstrual samples from more than 330 women since its founding in 2014. 
+"You can use [menstrual blood] to look for any conditions that affect the uterus – and there are many," says Christine Metz, a reproductive biologist with the Feinstein Institutes for Medical Research at Northwell Health, in the US.    
+Metz started out studying menstrual blood to pinpoint endometriosis biomarkers more than a decade ago, but is now also keen to see if the body fluid might provide clues to other conditions, such as endometrial cancer, adenomyosis, which is when the uterus lining grows into the uterine wall, and endometritis, which is persistent inflammation of the endometrial lining.
+"Menstrual effluent has a lot of value for understanding uterine health, which we don't have ways of accessing otherwise," says Metz. "It's a very unique biological specimen." One study, for instance, identified 385 proteins found exclusively in menstrual blood.
+Beyond being available monthly, another big plus of period blood is that it offers a more holistic picture of womb health compared to the small tissue fraction extracted during an endometrial biopsy. "The uterus is about the size of a grapefruit, so you're not getting a global assessment [with an endometrial biopsy]," says Metz, who gets study volunteers to collect samples in a menstrual cup. "But menstrual effluent is the entire shed endometrium."
+
+
+
+A quest for distinct biomarkers
+
+Because period blood has long been neglected by scientific research, it's still unclear whether endometriosis has unique biomarkers reliable enough for a diagnostic test. But Metz and her research partner, geneticist Peter Gregersen, have studied more than 3,700 women, with encouraging results so far. 
+"There are many differences," says Metz. For a start, women with diagnosed endometriosis have far fewer uterine "natural killer" cells – immune cells that play an important role in early pregnancy by facilitating embryo implantation, placental development, and guarding against infections. "They're implicated in fertility, so having too few of them is not a good thing," says Metz.
+
+
+
+Observations also suggest that menstrual blood may one day help pinpoint immune diseases such as hypo- or hyperthyroidism
+
+Her team also noted a key difference in stromal fibroblast cells, which help repair and regenerate the womb lining after each period. When endometriosis was present, the cells displayed more inflammatory markers, and they were less able to induce the changes that help prepare the womb for pregnancy. The latter has also been linked to other conditions, such as polycystic ovarian syndrome (PCOS) and recurrent miscarriages. 
+Metz's lab also found that the expression of certain genes is altered in patients with endometriosis. Taken together, these differences are what doctors could be looking for with an alternative, non-invasive diagnostic test for endometriosis based on period blood analysis. Metz hopes to apply for the US Food and Drug Administration’s approval for an at-home diagnostic kit sometime in 2027. 
+Researchers at NextGen Jane, on the other hand, are extracting and sequencing messenger RNA (mRNA) from menstrual blood to look for specific endometriosis biomarkers there.          
+So far, they've identified a handful of markers they believe can reliably distinguish endometriosis from healthy cases in infertile women. A US-based study involving hundreds of women with endometriosis is now underway to confirm their findings, says Tariyal. In May 2025, NextGen Jane received a $2.2m (£1.62m) grant to fund clinical validation of a menstrual test for endometriosis in infertility patients.
+
+
+
+Not just reproductive health   
+
+But menstrual blood is useful beyond just endometriosis. NextGen Jane's work, for instance, has thrown up links between uterine health and ageing. "It's early data," says Tariyal, but there's "clearly a trend" between the decline of oestrogen in the body, which is the definition of ageing, and menstruation.           
+Their observations also suggest that menstrual blood may one day help pinpoint immune diseases such as hypo- or hyperthyroidism, in which the body’s thyroid gland releases too little or too much of its metabolism-controlling hormones, thyroxine and triiodothyronine. "It just so happens that people with endometriosis often have some autoimmune condition," says Tariyal.
+Since the body moves from inflammation to scarless wound healing throughout the menstrual cycle, studying period blood could offer a novel model system for inflammatory and immune-mediated diseases such as rheumatoid arthritis, lupus, and multiple sclerosis, says Tariyal.  
+Menstrual blood has also proven useful for detecting diabetes. In studies from 2021 and 2024, researchers from California-based startup Qvin found that average blood sugar content measured in menstrual blood reliably reflected blood sugar levels across the body. Their findings paved the way for the first and only FDA-approved menstrual blood sugar health test in 2024 – a sanitary napkin they call Q-Pad, which has a removable strip to collect blood that users mail to Qvin's labs for analysis.      
+Qvin has also shown, in a 2022 study conducted in Thailand, that samples collected using their proprietary pad were better at detecting high-risk strains of human papillomavirus (HPV) – which can put a person at risk for cervical cancer – compared with traditional Pap smears. A wider trial to validate these findings is now ongoing in the US.
+Starting this year, the trial will also examine whether Q-Pad can be used to screen for sexually transmitted infections such as chlamydia and gonorrhoea, says Mads Lillelund, Qvin's co-CEO. Lillelund then hopes to move on to health markers such as thyroid and reproductive hormones, inflammatory markers, and even antibodies that indicate an immune response to SARS-CoV-2. 
+
+
+
+Our goal is for women to have quicker access to diagnosis, better treatment, and better prevention – Isabelle Guenou
+
+Similarly, Berlin-based startup theblood is currently validating a test kit to help predict endometriosis, early menopause, PCOS, and fertility issues. They've also previously demonstrated in a small study that vitamin A and D levels in menstrual blood correspond to those measured in blood throughout the body, albeit at consistently lower levels.
+"Our goal is for women to have quicker access to diagnosis, better treatment, and better prevention," says Isabelle Guenou, who co-founded theblood in 2022. Growing up, Guenou suffered badly from endometriosis, which took eight years to diagnose, and underwent several surgeries for it.
+Menstrual blood can even indicate the type of toxins one is exposed to, according to a small 2022 study by Metz which detected phenols, parabens, phthalates, and other environmental pollutants in the menstrual blood of four volunteers. 
+
+
+
+The menstrual revolution      
+
+Despite this progress, much about menstrual blood remains a mystery. The biggest one, many researchers agree, is that we haven't yet identified all the components present and how these can change rapidly during menstruation.    
+Research is nascent, largely because of cultural stigmas that surround the topic, even today, when we call menstruation numerous unflattering euphemisms, like the Curse, Satan's Waterfall, Alarmstufe Rot ("Code Red Alarm"), Les Ragnagnas ("Grumbling"), and Kommunister i lysthuset ("Communists in the gazebo").
+"We've all been ingrained that it's something taboo not to even talk about," says Metz.
+Compounding matters further is the historical bias towards male subjects in medical research and the relative lack of funding for women's health studies. Globally, research on women's health comprised only 5% of global research and development funding in 2020. While in the UK, a mere 2.1% of publicly funded medical research goes to reproductive conditions.
+"Most of the drug discovery that's been done has been mostly on men, potentially white men, with little ethnic or gender diversity," says Lillelund. "There's more money spent on male pattern baldness versus endometriosis."
+As a result, menstrual blood researchers have had to invent, refine, and standardise protocols for collecting, preserving, and processing samples. Menstrual effluent can differ drastically from one woman to another, in terms of flow, viscosity, and other factors. "In this field, we're all sort of flying blind," says Tariyal. "There's just a lot of novel R&D that has to go into it."
+But a menstrual revolution is around the corner. "The effort is more robust," says Tariyal, about a newfound interest from patients, researchers and investors. The Massachusetts Institute of Technology (MIT), for instance, launched a $10m (£7.48m) initiative in July 2025 to advance our understanding of how menstrual cycles impact immunology.    
+There are even menstrual blood banks emerging worldwide.    
+The aim is to create "an ecosystem for researchers where they can get access to samples quickly, effectively, and responsibly," says British-based entrepreneur Karli Büchling, who is helping build Europe's first menstrual biobank. Her team will soon begin collecting menstrual samples from women in the UK using proprietary at-home kits, and she hopes the biobank will be open to researchers for a small fee by the end of 2026.
+Many women, including Backlund, who live with the painful everyday reality of endometriosis and other uterine conditions, say such research is long overdue.
+Growing up with painful periods and wondering what was wrong "was really lonely and isolating," says Backlund. But if menstrual blood researchers succeed in their mission to create a non-invasive diagnostic tool, she says, then hopefully the next generation of girls will get treated quicker, and avoid the physical and emotional turmoil she endured growing up.

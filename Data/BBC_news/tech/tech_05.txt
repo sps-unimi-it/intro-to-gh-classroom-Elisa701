@@ -1,0 +1,59 @@
+Title: The weirdest things that mess up wi-fi - and how to improve your signal
+URL: https://www.bbc.com/future/article/20260708-the-weirdest-things-that-mess-up-your-wifi
+
+
+
+The world runs on wi-fi, but strange things can stand in its way – including your lunch.
+Alex Hills is a pioneer: he was among the first people on Earth to ever battle their wi-fi connection.
+In 1993, he led the team that built one of the first large wi-fi networks, as a professor at Carnegie Mellon University in the US.
+Hills tells the story in his book, wi-fi and the Bad Boys of Radio. But "Bad Boys" isn't a reference to his ragtag bunch of internet cowboys – it's the name he gave to the processes that stand in the way of smooth-running wi-fi.
+Your home may be filled with bad boys of its own, doing everything they can to interrupt your memes. Some such disruptors are unsurprising, like thick walls. Others are a little bizarre.
+Identifying these hitches might help fix your connection – and could even change how you think about one of the most important technologies in your life.
+
+
+
+Microwaves
+
+For 17 years, mysterious radio signals baffled astronomers in Australia. Some blamed solar flares. The public suspected aliens. Eventually, they learned the culprit was closer to home: their telescope was picking up bursts of energy from the office microwave at lunchtime.
+Telescopes aren't the only technology that's vulnerably to pesky microwaves. They can also mess up your wi-fi.
+Wi-fi, like most wireless communications technology, transmits information over radio waves. Governments reserve most radio frequencies for specific purposes, like law enforcement, air traffic control and AM and FM radio stations. But some are free for unlicensed public use.
+For example, 2.4 GHz is one of the most common frequencies used by wi-fi networks and Bluetooth devices. Coincidentally, that's also the frequency your microwave uses to heat up leftovers.
+Microwave ovens are shielded to keep the ramen-warming waves inside the machine. But if you've got a beat-up old microwave, or if you open the door before it's finished cooking, Hills says it can clash with your wi-fi signal.
+"It's one of the most significant sources of interference that people talk about," says Hills. You can get the same problem from frequencies leaking out of fluorescent lights or car ignition systems.
+"These days, microwaves are less of a problem," says Hills. They're built better and wi-fi can operate on 5 GHz instead of 2.4 GHz. But if you've got an older wi-fi setup or an ageing microwave, defrosting TV dinners can interrupt your memes.
+
+
+
+Fish tanks
+
+If you have water-dwelling pets at home, it may cause problems.
+"A radio signal naturally gets weaker with distance," says Hills. "But sometimes it penetrates an object that weakens the signal. We call that 'shadowing'."
+Wi-fi and water don't get along. Among other problems, water molecules can act like tiny magnets that drain the radio signal's power. If you've got a fish tank between you and your router, it can create a wi-fi dead zone.
+Shadowing is the biggest problem people have with wi-fi networks, Hills says – and not just because of fish tanks.
+Radio can pass through some materials like wood and drywall with relative ease. But if you've got walls made of dense material like brick or concrete, that's harder to deal with.
+"Think of a straight-line path between your router and the device you're trying to serve," says Hills. Signal can bounce around a room and find other ways around objects. But the more obstructions you have in the way, the harder it gets.
+A shorter distance makes things easier for wi-fi too. Putting your router in the middle of the house and getting it as high up as possible are good first steps.
+If that doesn't cut it, you can try using a wi-fi extender, which boosts your signal, or replacing your router with a mesh network that distributes the wi-fi around your space with a series of small devices. That way you don't have to disturb the poor fish.
+Thomas Germain is a senior technology journalist at the BBC. He writes the column Keeping Tabs and co-hosts the The Interface podcast. His work uncovers the hidden systems that run your digital life, and how you can live better inside them.
+
+
+
+Mirrors
+
+Microwaves can interfere with wi-fi signals, aquariums can swallow them up. But there's another common problem: reflection.
+Radio is another form of light. And just as light bounces off reflective surfaces like mirrors, so can your wi-fi signal.
+Any flat, reflective surface like a TV can cause the same problem. You can have the same problem if your walls use sheets of metal in the building materials.
+If you have a dead spot in your house, picture a line between you and the router and think about whether there's a mirror or a big TV that might be bouncing the signal away.
+You might want to consider moving the reflective surfaces around. Or if you don't want to mess around with your layout, this is another problem that wi-fi extenders can help solve.
+
+
+
+Winter
+
+Rain shouldn't interrupt your wi-fi, unless you use a network in another building separated by open space. But when the weather gets really bad, things can fall apart.
+Snowfall can knock out the infrastructure serving a house, neighbourhood or even a whole town – whether that's extreme cold damaging the metal inside cables or snow piling up and blocking satellite signals.
+Heat can cause similar problems. And even if the weather itself isn't causing a problem, networks can slow down when everyone at your house is stuck inside watching YouTube at the same time.
+It means that disrupted memes may be yet another consequence of climate change. The answer? Aside from doing your part for the planet, you can pester telecom companies and local officials to take proactive measures.
+As for Alex Hills, he lives in Alaska these days, where he's spent a large chunk of his career helping remote towns and villages get online.
+Satellite internet services have made that project a lot easier, but they pose their own wi-fi "bad boys".
+Sometimes, when a blizzard covers your satellite dish with snow, you have to break out the shovel.

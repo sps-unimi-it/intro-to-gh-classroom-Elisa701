@@ -1,0 +1,31 @@
+Title: Scientist publishes fresh doubts over Microsoft's quantum claims
+URL: https://www.bbc.com/news/articles/c05y9pl3ejmo
+
+
+
+Microsoft's claims it has made major breakthroughs in quantum computing have been questioned by a UK-based physicist, in a paper published by the science journal Nature.
+Dr Henry Legg, a long-term critic of Microsoft's quantum work, argued a software tool used by the tech giant to check its research contained coding errors and was not sufficiently accurate.
+Legg also said Microsoft had still not proved its assertion that it has managed to create a theoretical quasi-particle called Majorana, which underpins its approach to quantum computing.
+The tech giant has consistently stood by its conclusions despite scepticism from experts in the field.
+It has invested heavily in the race to build quantum computers, which work very differently to traditional machines and are said to have the potential to solve difficult global challenges which are too big for even the world's most powerful supercomputers to process.
+Quantum computing is already a multi-billion dollar industry despite there only being very limited devices currently in existence.
+Current quantum machines are prone to start making mistakes in the event of the slightest interference such as small vibrations or a tiny change in temperature.
+"Last year Microsoft claimed they had built the equivalent of a precision Swiss watch. However when I opened the case to examine the mechanism, I found what looked like a chaotic jumble of mismatched parts," Legg said.
+"Something was making noise, but it didn't look like the breakthrough Microsoft had claimed."
+Microsoft has stood by its results.
+
+"At the end of the day, success is the delivery of a scalable quantum computer," said Dr Chetan Nayak, Technical Fellow and Corporate Vice President, Quantum Hardware, Microsoft.
+"Scepticism and rigour are hallmarks of the scientific process, which we appreciate and have supported from various academics. We have participated in dialogue and our thorough rebuttal was accepted and published by Nature."
+In that response, Microsoft states that the software Legg referred to did not "interpret" the measurements which led to its conclusions.
+Legg also accused Microsoft of not sharing enough data for other scientists to scrutinise, which is how scientific research is generally either validated or dismissed by the wider expert community.
+Microsoft said it was sharing all of its data with the US defence agency Darpa for independent arbitration but has claimed some of it is too commercially sensitive to publish more widely.
+Legg's paper critiqued research published by Microsoft in 2025. It has since released a second generation of its Majorana chip, which it says is 1,000 times more reliable than the previous one.
+
+
+This is not the first time Microsoft's quantum research has been called into question.
+A paper from a Microsoft-backed lab which claimed to have found evidence of the Majorana particle was retracted in 2021.
+In 2025, Nature's editors added a note to Microsoft's paper in which it claimed to have created the particle itself.
+"The results in this manuscript do not represent evidence for the presence of Majorana zero modes in the reported devices," they wrote.
+The quest to make them more reliable is an industry-wide challenge. Microsoft believes its approach is the best solution.
+Quantum is a strange and complex branch of science which is still not entirely understood.
+Microsoft's approach to quantum computing is equally strange: it is based on a 90-year-old physics theory and involves a state of matter which is neither liquid, solid nor gas. The tech giant has pursued this path for more than 20 years.
