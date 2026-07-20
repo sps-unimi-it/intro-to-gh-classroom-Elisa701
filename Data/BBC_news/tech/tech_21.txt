@@ -2,6 +2,7 @@ Title: A red pixel in the snow: How AI solved the mystery of a missing mountaine
 URL: https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer
 
 
+
 Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
 Racing against worsening weather, mountain rescue teams in the Italian region of Piemonte were facing a puzzle. An experienced Italian climber and orthopaedic surgeon Nicola Ivaldo had gone missing. The 66-year-old had failed to show up show up at work on Monday and an alarm was raised.
 Ivaldo had set out alone one Sunday in September 2024. Unfortunately, he hadn’t shared details of where he was headed with friends or family. The only clue to his whereabouts was the car that rescuers had found parked at the village of Castello di Pontechianale, in the Valle Varaita. From there, rescuers speculated, Ivaldo had probably gone to climb one of the two most prominent peaks of the Cottian alps – the jagged 3,841m-high (12,602ft) Monviso or its neighbour Visolotto, at 3,348m (10,984ft). This matched the last signal from his mobile phone, traced roughly in this area.

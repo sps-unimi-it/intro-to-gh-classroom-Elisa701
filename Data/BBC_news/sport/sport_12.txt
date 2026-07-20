@@ -1,6 +1,7 @@
 Title: Norris to have 10-place grid penalty in Belgium
 URL: https://www.bbc.com/sport/formula1/articles/cj038y0levyo
 
+
 McLaren's Lando Norris will have a 10-place grid penalty at the Belgian Grand Prix on Sunday as a result of exceeding the permitted number of engine parts.
 The world champion's car will be fitted with a new battery, Norris' fourth of the season, one more than is permitted.
 McLaren decided to fit the new unit, along with taking the latest specification of Mercedes engine, because the one Norris was using does not have the reliability fixes introduced after a series of failures this year.

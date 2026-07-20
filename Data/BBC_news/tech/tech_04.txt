@@ -2,6 +2,7 @@ Title: China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic
 URL: https://www.bbc.com/news/articles/cy9w4q8pgp0o
 
 
+
 Chinese AI start-up Moonshot has unveiled a massive new artificial intelligence model it says can rival top American firms.
 The company launched Kimi K3, containing 2.8 trillion parameters, which serves as a measure of an AI's scale and processing power.
 Kimi K3's full capabilities – coding, knowledge work, and reasoning – will be known when it is released as an open-source model on 27 July.

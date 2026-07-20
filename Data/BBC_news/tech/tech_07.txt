@@ -2,6 +2,7 @@ Title: AI is 'not smart' so what's next in artificial intelligence?
 URL: https://www.bbc.com/news/articles/cj6gr0xkyr3o
 
 
+
 "We don't have robots that are nearly as good at understanding the physical world as a rat," says Yann LeCun, one of the leading figures in the world of artificial intelligence.
 He worked at Facebook-owner, Meta, for a decade, where he was chief AI scientist, but left in 2025 and founded Advanced Machine Intelligence Labs (AMI Labs).
 His goal is to move AI beyond current systems like ChatGPT, Claude and Gemini. They have their uses, he says, but will never be able to tackle complicated situations in the real world, like getting a robot to do household chores.

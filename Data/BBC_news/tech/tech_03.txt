@@ -1,6 +1,7 @@
 Title: Meta glasses wearers hit with paywall to use built-in feature
 URL: https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss
 
+
 Owners of Meta's AI glasses have been told they must pay a monthly fee if they want full access to a feature that was previously free.
 
 Users will have to shell out $19.99 every month to use "Conversation Focus", which uses the microphones on the glasses to make it easier to hear people you're talking to, for more than three hours a month.

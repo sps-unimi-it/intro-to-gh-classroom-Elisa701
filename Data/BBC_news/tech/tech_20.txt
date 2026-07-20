@@ -2,6 +2,7 @@ Title: Ground truth: When the Earth moves, AI can spot it
 URL: https://www.bbc.com/future/article/20260323-the-ai-that-warns-people-about-landslides-and-avalanches
 
 
+
 Sudden and unexpected, landslides and avalanches claim thousands of lives each year and cause billions of dollars in damage. What if we could see them coming?
 All around the village of Kimtang, in central Nepal, are tell-tale signs that something isn't right. There are cracks in the concrete steps of houses, trees growing at strange angles – evidence that the ground is shifting beneath the villagers' feet. The question is, just how much is the ground moving?
 "This is not good," says Antoinette Tordesillas, a mathematician at the University of Melbourne, as she shows me an overhead view of Kimtang via Zoom. There's a large red spot on the image, which is not any old satellite image but a coloured map created by an artificial intelligence (AI) system.

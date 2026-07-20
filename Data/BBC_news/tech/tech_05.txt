@@ -2,6 +2,7 @@ Title: The weirdest things that mess up wi-fi - and how to improve your signal
 URL: https://www.bbc.com/future/article/20260708-the-weirdest-things-that-mess-up-your-wifi
 
 
+
 The world runs on wi-fi, but strange things can stand in its way – including your lunch.
 Alex Hills is a pioneer: he was among the first people on Earth to ever battle their wi-fi connection.
 In 1993, he led the team that built one of the first large wi-fi networks, as a professor at Carnegie Mellon University in the US.

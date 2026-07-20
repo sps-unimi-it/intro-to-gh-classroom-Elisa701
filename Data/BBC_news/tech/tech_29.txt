@@ -2,6 +2,7 @@ Title: AI used to tackle rising tide of boat thefts
 URL: https://www.bbc.com/news/articles/c3931nm310xo
 
 
+
 Boat owners have been using artificial intelligence (AI) to catch thieves on the water after a spate of break-ins at a yacht club.
 
 Parkstone Yacht Club, has teamed up with Poole Harbour Commissioners and Dorset Marine Police to launch a community app known as "Moor Mesh".

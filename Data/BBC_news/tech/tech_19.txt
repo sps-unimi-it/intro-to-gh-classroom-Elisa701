@@ -2,6 +2,7 @@ Title: These diseases were thought to be incurable. Now AI is unlocking new trea
 URL: https://www.bbc.com/future/article/20260309-ai-is-finding-treatments-for-incurable-diseases
 
 
+
 Artificial intelligence is inventing new drugs against Parkinson's disease, antibiotic-resistant superbugs and many rare diseases – progress that many scientists never dreamed possible.
 
 For around half a century, humanity has been slowly losing its battle against bacteria. The most powerful weapons we have in this fight, antibiotics, are increasingly ineffective as drug resistance spreads. Around 1.1 million people now die every year from infections that were until recently easily treated. And the death toll is expected to rise to more than eight million by 2050 unless urgent action is taken.

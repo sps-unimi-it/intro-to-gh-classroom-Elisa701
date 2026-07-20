@@ -2,6 +2,7 @@ Title: 'World-first' vaccine designed by artificial intelligence
 URL: https://www.bbc.com/news/articles/crrpggegwe0o
 
 
+
 Artificial intelligence has been used to develop a "fundamentally new" type of vaccine that could protect against large swathes of viruses and prevent pandemics, say researchers.
 The team at the University of Cambridge say it is the first time a vaccine's key component has been designed entirely by AI and then trialled in people.
 The vaccine was engineered to work on all coronaviruses which would include all Covid variants as well as viruses that currently infect animals yet have the potential to start the next pandemic.

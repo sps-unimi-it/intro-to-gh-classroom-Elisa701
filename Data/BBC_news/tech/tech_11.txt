@@ -2,6 +2,7 @@ Title: Scientist publishes fresh doubts over Microsoft's quantum claims
 URL: https://www.bbc.com/news/articles/c05y9pl3ejmo
 
 
+
 Microsoft's claims it has made major breakthroughs in quantum computing have been questioned by a UK-based physicist, in a paper published by the science journal Nature.
 Dr Henry Legg, a long-term critic of Microsoft's quantum work, argued a software tool used by the tech giant to check its research contained coding errors and was not sufficiently accurate.
 Legg also said Microsoft had still not proved its assertion that it has managed to create a theoretical quasi-particle called Majorana, which underpins its approach to quantum computing.

@@ -2,6 +2,7 @@ Title: How period trackers share your private details
 URL: https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details
 
 
+
 Some apps are sharing users' health data. New research uncovers which apps lock down your privacy, and which don't.
 Stardust is a period tracking app that combines users' menstrual cycles with astrology and horoscopes. It also makes bold privacy promises.
 "Your data is private," Stardust says on its website. "Period."

@@ -2,6 +2,7 @@ Title: Can China repeat its EV success with robotaxis?
 URL: https://www.bbc.com/news/articles/cvgl8dlxjd3o
 
 
+
 In Beijing's Yizhuang district, driverless vehicles have become a common sight. Robotaxis weave through traffic alongside ordinary cars, while autonomous delivery vans glide along the inside lane as they carry packages to collection points.
 The district has become one of China's testing grounds for autonomous driving, with companies including Baidu, WeRide and Pony.ai operating commercial robotaxi services within designated areas.
 Booking a ride requires little more than opening an app. Within minutes, a robotaxi pulls up with nobody behind the wheel. After confirming the journey on a touchscreen, the vehicle merges into Beijing's dense traffic, navigating buses, cyclists, scooters and pedestrians with little hesitation.

@@ -2,6 +2,7 @@ Title: Bone is a wonder material. Scientists are defying physics to mimic it for
 URL: https://www.bbc.com/future/article/20260518-bone-is-a-wonder-material-ai-is-helping-scientists-mimic-it
 
 
+
 New materials designed by artificial intelligence promise to provide stronger hip replacements and improve how fractures heal.
 
 A few years ago, Amir Zadpoor was searching for a peculiar new material. He needed one that would get thicker when stretched, yet also be stiff like bone.
