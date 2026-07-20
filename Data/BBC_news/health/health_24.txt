@@ -1,0 +1,60 @@
+Title: How ultra-processed foods affect our gut microbiome
+URL: https://www.bbc.com/future/article/20260220-how-ultra-processed-foods-influence-our-gut-microbiome
+
+
+The additives added to processed food to keep it fresher for longer might be having an unexpected effect on the health of the microbes in our guts.
+Inside all of us there's a bustling community of trillions of cells that influences numerous aspects of our health. We call it our "microbiome".
+"You can think of gut diversity as like a forest. The more microbes that you have and the different types of microbes in your forest, the greater resilience you have to any perturbations," says Melissa Lane, a nutritional epidemiologist at Deakin University.
+Science long ago confirmed that a healthy and diverse microbiome is key for our overall wellbeing, as it influences everything from our mood to our metabolism and even our brains.
+Those who have lower bacterial diversity in their gut are more prone to sleep problems, poorer gut health and greater inflammation, whilst a high diversity is even linked to a longer life.
+"It's this whole ecosystem. It's like an extra organ that we have in our body," explains Sarah Berry, a professor of nutrition from Kings College London.
+But some of the foods we commonly eat could be harming this ecosystem, evidence suggests. Ultra-processed foods (UPFs) in particular can disrupt and alter the microbes in our gut.
+And one of the reasons is increasingly being attributed to the numerous additives in our food. It made me wonder what these additives do to our gut.
+
+
+What we add and why
+
+Look at any ingredient list as you next browse the supermarket and you'll quickly note just how many dietary emulsifiers, artificial sweeteners and food colourings are added to our food.
+They do everything from making food tastier or increasing its crunch, to changing texture and extending shelf life.
+For instance, a seemingly "healthy" chicken salad I picked up recently contained a high-risk additive according to an app I use to scan the nutritional quality of food.
+It included several emulsifiers, substances which allow oils and water to mix, which are commonly found in UPFs. The texture of your favourite melt-in-the mouth ice cream? That is down to emulsifiers. They also extend its shelf life. (Read more about the ice cream that doesn't melt.) Emulsifiers help supermarket bread stays spongy for so long and are also why a shop-bought cake will stay moist for longer than a homemade one.
+And they are extremely prevalent. One analysis found that 6,640 different food products in UK supermarkets contain emulsifiers, which amounted to about half the products analysed.
+
+
+Evidence suggests these additives may negatively affect our gut microbiome
+
+So why is this of concern? Evidence suggests these additives may negatively affect our gut microbiome, and have been linked to inflammatory bowel disease, irritable bowel syndrome and colorectal cancer.
+Research carried out on both animals and humans appears to pinpoint a direct link between emulsifiers and ill health.
+
+
+How our microbiome is affected
+
+In a study on mice, led by Benoit Chassaing at Institut Pasteur in Paris, France, low doses of two widely used emulsifiers caused gut bacteria to move closer to the gut wall, leading to inflammation and signs of disease. Mice already prone to gut problems experienced more severe inflammation. 
+Normally our gut microbes are kept at a safe distance from the gut wall by a layer of mucus that lines the intestine, which helps prevent inflammation. It's when bacteria erode into our protective mucus layer that can trigger chronic inflammatory diseases, Chassaing says.
+Follow-up correlational studies have linked adverse effects to humans too. One French study of more than 100,000 adults in 2024 found those who were more exposed to emulsifiers had a greater risk of type 2 diabetes. Another study of more than 90,000 adults found a potential link between emulsifiers and breast and prostate cancers.
+While these were correlations, by collecting intestinal samples Chassaing and colleagues have also shown in a small trial on humans that when healthy individuals consumed an emulsifier commonly used as a thickener in food, it disrupted the gut microbes and reduced healthy microbes.
+Kevin Whelan, a professor of dietetics at Kings College London and Chassaing have recently collaborated on a clinical trial on individuals with Crohn's disease. The trial found those on a restricted emulsifier diet were three times more likely to experience reduced symptoms, compared to those who ate a regular intake of emulsifiers as part of their diet.
+
+
+
+They were never tested in the past for the direct effect on the microbiome – Benoit Chassaing
+
+Despite the health concerns over their use, there is no public guidance over whether we should avoid emulsifiers. One reason is because there are simply so many additives in our food and scientists don't definitely know how many are toxic, or whether it's the combination of them that's harmful, Whelan says.
+The emulsifiers we eat have all been approved by the food industry, explains Chassaing. "They are only tested for the toxicity effect or for the ability to induce DNA damage. And for those two aspects, they are perfectly fine. But they were never tested in the past for the direct effect on the microbiome," he says.
+The European Food Safety Authority (EFSA) states that: "In the European Union all food additives are identified by an E number, and their safety is evaluated before they can be permitted for use in food." Similarly in the US the Food and Drug Administration (FDA) states that "a food additive must be authorised by the FDA before it can be used in food on the market".
+That said, there can definitively be cumulative effects adds Chassaing. How these chemicals and nutrients interact has been dubbed the "cocktail effect" – and because there are so many permutations, it's difficult to isolate the effect of one additive from another. Emerging evidence on human cells in the lab suggests that the combined effects of several commonly consumed additives is linked to increased cell damage.
+In addition, how food is processed could also matter for gut health, beyond nutrient content alone, a recent study has shown.
+In a randomised control trial, Lane and colleagues found that a diet high in ultra-processed food resulted in lower gut microbe diversity. The team compared two groups over three weeks; both ate low calorie diets, and the diets contained comparable nutrients.
+Crucially, one group consumed a diet based mainly on highly processed meal-replacement products like shakes, soups and bars, and the other followed a low-UPF diet made up of minimally processed, freshly prepared food. 
+While the two groups experienced similar weight loss levels, the gut bacteria in each group dramatically differed. Those on the low-UPF diet had a more diverse gut microbiome whilst those on the high-UPF diet had lower diversity, as well as more constipation. Participants whose gut diversity decreased also tended to report less favourable changes in bloating and abdominal pain.
+Although the team couldn't pinpoint exactly why, Lane says it could be due to the fact that the types of fibre differed. "The higher ultra-processed food diet had mixtures of additives and, very low amounts of minimally processed ingredients, whilst the low-UPF diet had many different types of fibre coming from whole foods, and far fewer additives," she said.
+
+
+Cooking from scratch
+
+Another important point to consider is that many UPFs are low in the nutrients we need, which could also affect the gut. It's already well understood that a diet rich in fibre and polyphenols nourishes our gut bacteria, and polyphenols are known to have anti-inflammatory properties.
+With the evidence mounting up, I asked those I spoke to what the public should to look out for to minimise some of these harmful effects of emulsifiers.
+The best thing, says Berry, is to cook from scratch using fresh ingredients as much as possible. It's unrealistic to avoid ultra-processed foods altogether, she says.
+Whelan agrees: "I wouldn't want to be saying to the general public, 'never eat anything that has a food additive in it', I certainly don't do that and I'm not recommending people do it." What we can all do, he says, is think about eating more healthily. "Food is a really precious thing in our lives and we should celebrate it."
+Clearly, moderation is key and rather than only focussing on what to take away, we can also consider what to add to our diet, Berry says, especially when it comes to snacks, as they account for a significant portion of our daily calories.  
+Ultimately, a good rule of thumb is to eat much fresh produce as possible. When we do so, our health – and our microbes – only benefit.

@@ -1,0 +1,39 @@
+Title: Student's £30 device 'translates in real time'
+URL: https://www.bbc.com/news/articles/ced47540de2o
+
+
+A student who has designed an affordable device which can translate and transcribe language in front of people's eyes hopes to make tech more accessible for all.
+
+Milya Mohd Asyraf, 22, spent six months coming up with the design as part of her electrical and electronic engineering degree at the University of Plymouth.
+
+The gizmo, which costs about £30 to make, translates speech into text before projecting it onto a small screen in front of a person's glasses via a clip-on electronic box, she said.
+
+Using affordable and recycled materials, it was cheaper than many existing versions of the concept and ultimately aimed to help people overcome a range of communication barriers, she added.
+
+Milya said: "My whole inspiration behind this project is that I grew up in a multilingual environment and was always one of those people who didn't understand what everyone else was saying.
+
+"Language barriers – or even differences in accents – can make communication tricky, and many translation tools currently rely on phones, playback or expensive smart glasses that either interrupt conversations or reduce accessibility."
+
+She said her device addresses that by fitting on someone's glasses "without additional features like other smart glasses that cause the high prices".
+
+The design captures speech through a small microphone, where an AI model translated and converted it into written text in real time.
+
+The translated text was then sent over wi-fi Fi via a "microcontroller" which Milya said "sends signals from one thing to another".
+
+She explained the controller was, in essence, "a small computer, and that's how the language is detected and also translated".
+
+The text is reflected through a mirror, lens and reflector, appearing like subtitles in the user's field of view, she said.
+
+Milya said the device was more accurate if programmed for a specific language - but was also not just helpful for understanding foreign languages.
+
+She said: "Besides translation, it's really good at transcription.
+
+"So, people hard of hearing can have a subtitle display."
+
+She added: "I'm really interested in accessibility technology and I'd like to make technology that people actually need, something that doesn't take advantage of people by taking their data, for example.
+
+"I'd like to make something that people actually would like to use without any of that risk."
+
+Asked what advice she would give to others hoping to create their own designs, she said: "I would say to just get started immediately, even if you don't know anything.
+
+"Just have a piece of paper and write something down, whether it's a plan to get out of your head. Everything will fall in place."

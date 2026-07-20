@@ -1,0 +1,41 @@
+Title: Bone is a wonder material. Scientists are defying physics to mimic it for longer-lasting hip replacements
+URL: https://www.bbc.com/future/article/20260518-bone-is-a-wonder-material-ai-is-helping-scientists-mimic-it
+
+
+New materials designed by artificial intelligence promise to provide stronger hip replacements and improve how fractures heal.
+
+A few years ago, Amir Zadpoor was searching for a peculiar new material. He needed one that would get thicker when stretched, yet also be stiff like bone.
+It was quite an ask. Think about what happens when you pull an elastic band from both ends – as it elongates, the elastic gets ever thinner. Zadpoor, a professor of orthopaedics at the Leiden University Medical Center in the Netherlands, and his team needed something that would do the exact opposite. It would almost need to defy the laws of physics.
+The problem they were facing were hips. Hip replacements are one of the most common orthopaedic procedures conducted around the world. The problem is that people with artificial hips take around two million steps per year, which subjects an implant to forces that gradually wear it down. After a decade or more of use, implants often need to be replaced.
+Zadpoor and his colleagues hoped to solve this problem by putting two different materials that behave in opposite ways when stretched on either side of an implant's base – one that becomes thicker when compressed and the other that would thicken when stretched. This would help to cushion the femur when the joint was under pressure and ensure implant stay fixed snugly against the bone.
+"That would reinforce the connection between the bone and the implant," says Zadpoor. All their research had suggested it would work. Only there was another catch – the few known materials that become thicker when stretched, called auxetic materials, tend to be soft and compliant. They are used in crash helmets and knee pads, for example.
+"We were trying to find this holy grail of auxeticity and also a high stiffness to be able to carry the loads," says Zadpoor. "That becomes a formidable hunt."
+
+
+
+Machine learning may even make it possible to tailor individual bone implants to a patient's anatomy
+
+The team turned to artificial intelligence for help. Using an AI system trained to predict how different materials might behave, they were able to plug in the specific properties they desired. The machine came back with a design for something known as a "metamaterial" – materials that can be engineered to have bizarre properties by altering their microscopic structure.
+Their work is just one example of how scientists are increasingly turning to AI to help them dream up materials that would have once been inconceivable. And it is proving to be particularly powerful for those trying to mimic the properties of biological tissues.
+"With machine learning, you can make (the process) orders of magnitude faster and that allows you to explore thousands to millions of more structures to find what you need," says Zadpoor.
+Metamaterials can be designed to have an array of properties, depending on their internal structure – they can behave either as a solid or a liquid depending on a specific frequency of sound applied to them, for example. But finding what internal structure might give rise to desired properties is still a challenge when relying on physics-based methods or simulations.
+It can take about a year to develop and train an AI model to generate new material designs, says Sid Kumar, an associate professor of materials science TU Delft in the Netherlands. But once that is in place, it can take minutes or even seconds for the system to generate feasible designs.
+In one of their projects, Kumar and his colleagues used AI to come up with a metamaterial that could be used to create soft bone implants to repair complex fractures, which are common in elderly people. Plates, screw and rods made of titanium or steel are often used currently, but bone doesn't always heal well around them. This can mean these implants do not integrate properly, leaving them weak.
+The researchers thought that a softer material that can still provide structure might better mimic the soft tissue that naturally forms in the early stages of healing in a fracture. They wanted a metamaterial that incorporates a lattice-like microstructure but also has liquid-like properties like a polymer or hydrogel. This soft material, which could be designed to look like a thin, circular bandage containing holes, would be placed on a fracture so that living cells can colonise it and allow it to integrate with the bone.
+"The early stage of fracture healing is decisive for success," says Xiao-Hua Qin, an assistant professor of biomaterial engineering at ETH Zurich in Switzerland and a member of the research team.
+Metal implants used to repair fractures are also more resilient than bone, which can be problematic since they absorb external forces. The bone that forms around them therefore doesn't experience strain during exercise and so can start to die. Kumar and his colleagues therefore also wanted a metamaterial that had the same shape and properties as can be found at the joint ends of long bones, for example those in our arms and legs. Here, the internal bone has a porous and honeycomb-like structure, known as trabecular bone, that provides strength and the ability to absorb shocks.
+
+
+
+Intelligence Revolution
+
+This article is part of the Intelligence Revolution, a series exploring how the limits of our own brains are being expanded by AI to make the impossible, possible.
+In previous work, Kumar and his colleagues had introduced a new class of metamaterials, called spinodoids, that share several important features with porous bone. Both have lattice-like internal structures that are slightly irregular in shape. Depending on how these are orientated, they create varying levels of strength and stiffness.
+By giving a machine learning model algorithim a list of the properties they were after, such as the specific stiffness of a femur bone, Kumar and his colleagues were able to generate spinodoid designs that closely matched human bone. They were able to mimic its curvature as well as its porous inner structure, for example, as well as how it behaves when a force is applied to it.
+"This is important because you may want one region of the implant to be stiffer, another region to be more porous and another region to encourage tissue ingrowth," says Mohammad Mirzaali, an associate professor of biomedical engineering at TU Delft, who was not involved with the work.
+Kumar and his team were also able to show that the design could be fabricated using three dimensional printing techniques. Their next step is to do tests to figure out how it would fare if implanted in the human body.
+"Maybe a few years down the line, we'll be able to make mimetic bone implants," says Kumar.
+Zadpoor and his colleagues have also moved forward with their quest to find an improbable metamaterial for hip implants. They have added to their list of properties – durable enough to long-lasting under stress and tuneable to fit into the variable space of a patient's hip.
+To satisfy their long wish list, Zadpoor and his team got three different machine learning models to join forces and hunt for a feasible metamaterial together. The approach resulted in several auxetic metamaterial designs that would be suitable for use in a bone implant, which Zadpoor says would be impossible to achieve without AI due to the complexity of the task.
+In the future, machine learning may even make it possible to tailor individual bone implants to a patient's anatomy, which should make it last longer, says Zadpoor.
+AI could also help create bone implants that can be put in place through a small opening to reduce the need for surgery. They could be designed to be compact during insertion then expand inside the body so that it fills the defect once it is in place. Kumar and his team recently revealed an AI-designed metamaterial that can expand in all directions at once and even be programmed to change shape in specific ways in response to an electrical current. While this one wasn't designed to mimic bone, it has shown what could be possible.

@@ -1,0 +1,53 @@
+Title: Why is crucial tech vulnerable to the heat?
+URL: https://www.bbc.com/news/articles/cj0gez6d50ro
+
+
+As one of France's hottest days on record unfolded on 23 June, exasperated people painted white chalk on their windows to screen out the sun. Paris's Eiffel Tower closed early.
+And in the town of Ergué-Gabéric, in Brittany, the punishing temperatures - around 40C - were too much for one electric transformer.
+The chunky metal box malfunctioned, initially leaving more than 100,000 people without power.
+It was a "heat related" incident, according to local authorities. Videos posted to social media appeared to show a plume of smoke rising from the stricken transformer. A spokeswoman for power company RTE confirmed to the BBC that the video showed one of the firm's facilities.
+The day before the accident, RTE had published a statement saying there was "no concern" surrounding the availability of electricity across its network this summer.
+Just as we all have our own limits in terms of high temperatures, so too does technology. Electrical and telecoms equipment, and railway signalling cabinets sometimes falter during a heatwave. Extreme temperatures can even set off alarm systems.
+Heat-troubled tech is a serious issue.
+For instance, six NHS trusts in England declared a critical incident last week after hot weather adversely affected their IT systems, scanners, and cancer and lab equipment.
+More frequent and more intense heatwaves triggered by human-caused climate change mean that engineers are increasingly adapting infrastructure to cope.
+"Anything to do with the electricity network – the power lines, the interconnectors and transformers – they all struggle to keep themselves cool enough," explains Iain Staffell at Imperial College London. "It reduces the efficiency of everything."
+Staffell and colleagues estimate that, in temperatures of 40C, the output of gas-fired power stations drops by roughly 10% versus 20C.
+The efficiency of solar panels also falls as temperature rises, though Staffell notes that this effect has become less pronounced with newer generations of panels.
+Even so, the impact of high temperatures on solar energy in Great Britain is visible in data he and his colleagues have analysed and shared with the BBC. "Once the UK gets above 27C, our solar output plateaus and starts to slowly fall [as temperatures continue to rise]," says Staffell.
+That said, extended periods of sunny weather during heatwaves can still boost solar output relative to cloudier days before the heatwave hit. This happened last week, according to comparison website Utility Bidder.
+Aside from electricity-generating facilities, consider also the power lines that swathe the country. These cables are made of metal, which expands in heat, causing the lines to droop. Running electricity through them generates even more heat.
+"There is a limit to how much droop you can allow," says Simon Hogg, a consultant and professor emeritus at Durham University.
+If sagging cables touch trees or buildings below, that could cause an accident or power failure.
+This scenario was behind a massive blackout in 2003 in North America.
+Given the risk, operators reduce the amount of electricity sent along power lines during heatwaves, limiting the supply.
+
+
+
+Chart showing how the efficiency of solar panels in the UK drops above 30C
+
+UK energy networks are currently implementing climate resilience strategies, says the Energy Networks Association, an industry body. Overall, the UK's energy systems are able to cope well during heatwaves, says Hogg. He describes this as "a success story".
+And yet heat has troubled various systems in recent years. During the historic July 2022 heatwave, temperatures reached more than 40C in some parts of the UK.
+Overheating equipment triggered power cuts affecting thousands of people.
+In London, data centres for Guy's and St Thomas' hospitals went down, leading to the cancellation of operations.
+A report detailing what happened, published the following year, set out the sequence of events, including this moment at 13.30 on 19 July: "Attempts to cool the St Thomas' datacentre begin by hosing cooling units with cold water, but are hampered by difficulty connecting the hose to a water supply."
+The temperature in the datacentre hit 36.2C less than an hour later. It was even worse in the nearby Guys' datacentre, where air conditioners failed, allowing temperatures inside to reach a scorching 50.3C.
+Hot weather can cause weird glitches, too. Motion sensors attached to security alarms occasionally mistake sudden shifts in temperature within a room as movement, triggering the alarms, say security firms.
+Separately, computer processors and electronic circuit boards don't like too much heat, says Nigel Linge, professor emeritus at the University of Salford.
+They are typically designed to cope with elevated temperatures but, above certain thresholds, spindly metal connections on circuit boards can expand and eventually form tiny cracks, he explains.
+"Thermal noise" can increase data errors, also known as bit errors, in computer and telecoms equipment. Much of this can be corrected for but could still potentially lead to failures. "In extreme heat, the thermal noise signature goes up," says Linge.
+He points out that metal telecoms cabinets outdoors can get very hot on sunny days. "I have known occasions where [operators have] gone out to really exposed sites and actually put additional shielding, umbrella-type things over cabinets," he adds.
+
+
+
+William Webb says communication systems are unlikely to be hit by high temperatures
+
+Metal cabinets are also widely used on railway lines, to house signalling equipment. Temperatures inside these cabinets can exceed 70C during heatwaves.
+Last year, rail company Southeastern began trialling liquid-based cooling technology inside such cabinets. The tech does not require electricity to run.
+William Webb, a former director at Ofcom and now chief executive at Commcisive, a consultancy, says he is aware of efforts to insulate or add ventilation to telecoms cabinets as average temperatures have warmed, and as more heat-generating equipment has been installed in those cabinets.
+Still, he cautions that the risk of widespread communications problems due to overheating is probably low: "I don't think it's actually prevalent or particularly likely."
+And while some reports suggest that extremely hot weather can reduce people's broadband speeds, Webb notes that many households have a broadband connection that is significantly faster than required, so reductions in capacity might not be noticeable.
+Climate change does mean that the UK's infrastructure, and essential tech, will face increasingly harsh conditions in the coming years.
+Knock-on outages from power cuts caused by extreme heat could impact digital payments, transport services and public services, potentially costing "billions", warned the independent Climate Change Committee, in a report published in May.
+Besides adapting electrical equipment so that it has improved ventilation, fans for cooling or similar upgrades, simply expanding the capacity of the country's electricity networks would help, says Staffell. That should allow more room for manoeuvre on very hot days.
+"There's going to be more and more summers like this," he says. "We are going to have to adapt."

@@ -1,0 +1,61 @@
+Title: Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI
+URL: https://www.bbc.com/news/articles/cp9vppem4evo
+
+
+Tinder will let users prove they are human and not robots by bringing advanced eye-scanning technology to the app amid rising fears over AI.
+
+Users of the dating app, as well as other major platforms such as video calling service Zoom, will be able to scan their irises to earn a "proof of humanity" badge attached to their profile or name.
+
+Through either an online app or an orb-shaped scanning device run by the World network people can submit to a scan of their iris, the coloured portion of the eye, in order to confirm they are human.
+
+World, formerly known as Worldcoin, is part of Tools for Humanity, a start-up co-founded and chaired by Sam Altman, who is also the head of ChatGPT-maker OpenAI.
+
+Once a person is confirmed as human by the technology they receive a unique identification code, which is stored on their smartphone and considered their World ID.
+
+A new World ID app, as well as the partnerships with Tinder and Zoom, were revealed during a live event in San Francisco on Friday.
+
+It began with a video projected on several large screens in a small auditorium depicting several famous journalists, including Walter Cronkite, Dan Rather, and Larry King, as well as former US President Ronald Regan.
+
+All of the men were shown using historic video footage that had been altered using AI to have them appear to be realistically discussing the need for a way to identify who is human on the internet.
+
+Altman took the stage briefly after the deepfake montage to applause from an audience of a few hundred people.
+
+He said there will soon be "more stuff made by AI than is made by humans" online.
+
+"I'm not afraid for the future as long as we can tell between the two," Altman added.
+
+Tinder and Zoom have encountered more problems with fake or malicious accounts and users over the last two years as improving AI technology has made it easier to impersonate human speech, voice and likeness.
+
+Fake profiles on Tinder, often referred to as "bots", are typically used to scam people out of money or their personal information.
+
+One user, Victoria Brooks, wrote last year on a personal blog that she had found Tinder to be overrun with bots looking to scam people.
+
+Brooks estimated 30% of Tinder profiles she had encountered were "AI-enhanced, emotionally manipulative, algorithmically-optimised romance scammers". Such bot accounts use not only fake profile photos, but AI-generated scripts to chat to real users.
+
+Romance scams saw people in the US lose more than $1bn (£739m) last year, according to the Federal Trade Commission.
+
+Late last year, Tinder began requiring all users to submit a video selfie to confirm they were real people. The integration with World ID will be an additional way people can be verified on the app if they choose to do so.
+
+Yoel Roth, who leads trust and safety at Match Group, the owner of Tinder, said that "partnering with World ID is a natural next step" for the platform to help users "know the person on the other end is real".
+
+Zoom, which is widely used for video conferences in work settings, is more concerned about increasingly sophisticated deepfakes of people who may be known to a user.
+
+In 2024, a worker in Hong Kong was convinced by video deepfakes of his company's chief financial officer and several other co-workers to hand over $25m.
+
+Research from Deloitte said financial fraud conducted through such deepfake scams could reach $40bn by 2027 in the US alone.
+
+Someone with a World ID now has the option to use it on Zoom in order to show they are who they appear to be.
+
+
+
+Changing name, not irises
+
+World is the third time the name of the company behind the authentication technology has changed.
+
+When it first launched to the public in 2022 it was called Worldcoin, and launched a cryptocurrency under the same name. In 2024, it became World Network, then last year it was shortened to World.
+
+World uses the iris for ID confirmation because it is the most unique part of a person, even more so than a fingerprint.
+
+World also describes the verification technique as anonymous, saying no personal information, like a name or address, was required.
+
+The company said 18 million people had been verified through World ID so far, and had used their verification 450 million times.

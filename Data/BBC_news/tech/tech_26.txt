@@ -1,0 +1,24 @@
+Title: Is this the electric car of the future?
+URL: https://www.bbc.com/news/articles/c862980v374o
+
+
+I am driving around in a one-of-a-kind electric car that can charge its battery from 10% to 80% in 10 minutes.
+It is packed with cutting edge technology, but in the fiery kiln of a British heatwave there is a bit of worry the wing mirrors might melt.
+In jargonese, this is the Shell Triple 10 Challenge Concept Car - which means this is a car built from scratch, in 18 months, to pack in as much of the latest electric vehicle (EV) technology as possible.
+It is a demonstrator, a project to show just what might be possible for a new generation of electric vehicles.
+The result is a car that charges really fast, squeezes a lot of range out its half-size battery and that has a remarkably small lifetime carbon footprint.
+There is a lot of state-of-the-art tech here, but perhaps the biggest change is the battery itself.
+
+Parts of the car's motor and all the battery are submerged in Shell's new battery coolant fluid. This keeps everything electrical nice and cool and that means you can get a lot more work out of it.
+Sitting in the back of one test car, Denis Gorman from RML Group took me through the battery.
+"What we've done here is a really clever concept of flowing Shell's fluid through all of the cells. So we can work the battery really hard to charge it really quickly... but keep it in its safe working limits."
+Around the battery, the team have brought together recycled materials to lower the carbon footprint and also made big efforts to reduce the car's weight, giving it the sort of range you'd expect from a car in this class, about 124 miles (200km), but with a battery half the size.
+Of course pulling all this technology together and getting it to work in a car is not easy and that is where the experts at the HORIBA-MIRA testing facility in Nuneaton, Warwickshire, come in with their engineering expertise for just this sort of project.
+Ben Gale from HORIBA-MIRA explained there was a lot to think about.
+
+"So how does this new fluid interact with rubber hoses for example? There's learning around all of that and it's part of the development of this concept. But showing the potential of it is where the real excitement is."
+So now the team have achieved their goal when might we see this tech, and this fluid cooled battery, available in showrooms to buy?
+"There's a lot of interest from car makers and we are hopeful the next generation [of EVs] will see a vehicle like this on the market," Toby Rockstroh of Shell said.
+Being driven around the car feels like a production model, there are nice screens, nifty ideas and a lot of legroom in the back thanks to the smaller battery.
+Sadly we cannot stay in today's superstrong sun for too long in case the space-aged 3D printed plastic wing mirrors start to melt - but that is a prototype problem.
+It will not be an issue for the real cars that Shell, HORIBA-MIRA and all the Midlands engineers involved in this project hope will follow.

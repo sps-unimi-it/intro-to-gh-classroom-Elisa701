@@ -1,0 +1,74 @@
+Title: How AI can read our scrambled inner thoughts
+URL: https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts
+
+
+The crackle of electricity inside your brain has long been too complex to decode. Artificial intelligence is changing that.
+The woman didn't move, apart from the rise and fall of her breathing – eyes fixed in concentration, hand clenched in a fist. Words were forming on a screen in front of her, slowly piecing together into whole sentences. Sentences she couldn't say out loud.
+The 52-year-old woman had been paralysed by a stroke 19 years earlier, leaving her unable to speak clearly. Here, however, her internal monologue was appearing before her eyes. 
+The women, identified only as participant T16, had been fitted with a tiny array of electrodes that was surgically inserted into a lobe at the front of her brain. Now a computer, powered by a form of artificial intelligence, was decoding the signals produced by her neurons as she imagined saying words, with the system translating them into text on a screen. She was taking part in a study at Stanford University in California, US, alongside three patients with the neurodegenerative disease amyotrophic lateral sclerosis (ALS), to test a technique capable of translating thoughts into real time text.
+It was the closest scientists had come yet to a form of "mind reading".
+The researchers unveiled their success in August 2025. A few months later, researchers in Japan revealed a "mind captioning" technique capable of generating detailed, accurate descriptions of what a person is seeing or picturing in their mind. It combined three different AI tools with non-invasive brain scans to translate a person's brain activity.
+Both studies are the latest in a string of breakthroughs that are giving neuroscientists a new window into the inner workings of the human brain and providing opportunities to help people who are unable to communicate in other ways. Eventually, however, it could radically transform the way we all interact with the world around us and even with each other.
+"In the next few years, we will begin to see these technologies being commercialised and deployed at scale," says Maitreyee Wairagkar, a neuroengineer who has been developing brain-computer interfaces at the neuroprosthetics laboratory at University of California, Davis, in the US. Several companies including Elon Musk's Neuralink are already seeking to produce commercial brain chips that will bring this technology out of the lab and into the real world. "It's very exciting," says Wairagkar.
+Scientists have been working on devices capable of communicating directly with the human brain – know as brain computer interfaces (BCIs) – for a surprisingly long time. In 1969, the American neuroscientist Eberhard Fetz demonstrated that monkeys could learn to move the needle of a meter with the activity of a single neuron in their brains if they were given a food pellet in return. In a more idiosyncratic experiment from the same period, Spanish scientist Jose Delgado was able to remotely stimulate the brain of an enraged bull, causing it to halt mid-charge.
+BCIs have been able to decode the brain signals that accompany movement so that users can control a prosthetic limb or a cursor on a screen for decades. But BCIs that translate speech signals or other complex thoughts from brain signals have been slower to evolve. "A lot of early work was done on non-human primates… and obviously, with monkeys you cannot study speech," says Wairagkar.
+In recent years, however, the field has made impressive advances in its efforts to decode the speech of people with impaired communication capabilities – for example, patients suffering from ALS resulting in paralysis or "locked in" syndrome. 
+Stanford University researchers announced in 2021, for example, a successful proof-of-concept that allowed a quadriplegic man to produce English sentences by picturing himself drawing letters in the air with his hand. Using this method, he was able to write 18 words per minute.
+
+
+Can we directly decode the words that the person is trying to speak from neural activity alone – Maitreyee Wairagkar
+
+Natural human speech is about 150 words per minute, so the next stage was decoding words from the neural activity associated with speech itself. In 2024, Wairagkar's lab trialled a technique that translated the attempted speech of a 45-year-old man with ALS directly into text on a computer screen. Achieving approximately 32 words per minute with 97.5% accuracy, this was the first demonstration of how speech BCIs could aid everyday communication, says Wairagkar.
+These methods rely on tiny "arrays" of microelectrodes which are surgically implanted in the brain's surface. The arrays record patterns of neural activity from the area of the brain they are placed in, with the signals are converted into meaning by a computer algorithm. It is here that the power of machine learning, a type of artificial intelligence has been transformative. These algorithms are adept at recognising patterns from vast amounts of disparate data. In the case of decoding speech, the machine learning algorithms are trained to recognise patterns of neural activity associated with different phonemes, the smallest building blocks of language.
+Researchers have compared this to the processing that takes place in smart assistants like Amazon's Alexa. But instead of interpreting sounds, the AI interprets neural signals.
+
+
+Unlocking inner speech
+
+As impressive as these recent speech-decoding efforts are, some snags remained. Typically, patients would need to attempt to say the words they'd like to communicate – even if they were not physically able to do so – in order for it to be translated accurately by the BCI technology. This is because the electrodes are usually placed in the motor cortex, the area responsible for muscle movements.
+However, attempting to speak requires effort, making the communication process slow and arduous. For their latest attempt, Stanford University researchers wanted to test whether there was an easier way: whether they could design a method that would pick up "inner speech" in real time, in addition to "attempted speech".
+"We asked them to count the number of shapes of a certain colour on the screen, because we figured that in this type of task, you would probably accomplish it by literally counting numbers in your head," says Frank Willett, co-director of the Neural Prosthetics Translational Laboratory at Stanford University who was one of the authors of the study involving the woman at the start of this article. "And that's what we saw. We saw traces of these number words passing through the motor cortex that we could pick up on."
+The answer to whether the tech could identify inner speech was a tentative "yes". For a task involving imagining a sentence, the researchers were able to achieve an accuracy rate of up to 74% in real time. For the tasks designed to prompt spontaneous inner speech, accuracy was reduced but still above chance. In a more open-ended condition, however, where they gave participants prompts like "think about your favorite quote from a movie", the decoded language was mostly gibberish.
+"With the current technology, we're not able to get somebody's fully unfiltered inner speech perfectly accurately," said Willett. "But we were able to pick up traces of inner speech pretty clearly in these different tasks."
+The study further illuminated how inner speech might work in our brains. It found that the neural patterns of inner speech were highly correlated with those of attempted speech in the motor cortex, but that the signals emitted were weaker. This echoed previous neuroimaging and electrophysiological studies which found that inner speech engages a similar brain network to physically produced speech.
+
+
+Beyond words
+
+Wairagkar's lab at University of California, Davis achieved a breakthrough in 2025 when they showed they could not only decode words, but also the non-verbal parts of speech like intonation, pitch, speed, and rhythm. In essence, it allowed patients to communicate expression and emphasis in addition to the words themselves. 
+"Human speech is much more than text on the screen," says Wairagkar. "Most of our communication comes through how we speak, how we express ourselves; what we say has different meanings in different contexts."
+Wairagkar and her colleagues demonstrated their prototype could produce speech out loud as it was attempted by an ALS patient with a severe motor speech disorder.
+Better technology will be able to sample more neurons, get richer information, and achieve real time intelligible speech – Maitreyee Wairagkar
+Crucially, the participant was able to modulate his words to convey meaning. "Our participant was able to ask a question with an inflection at the end of the sentence, and to change his pitch while speaking," said Wairagkar. "We demonstrated that through a simple task where he was singing melodies."
+It wasn't perfect, but 60% of the words were judged intelligible by testers. While still some way behind the best brain-to-text technology, it demonstrated what might be possible in the near future.
+Both Wairagkar and Willett believe more progress is imminent. One route to improvement might involve simply increasing the number of microelectrodes placed on the brain. "In our brains, we have billions of neurons and trillions of connections," says Wairagkar. In her latest study, "we were sampling just 256 of those". 
+"Newer devices and better technology will be able to sample more neurons, get richer information, and achieve real time intelligible speech," she adds. 
+
+
+
+Intelligence Revolution
+
+This article is part of the Intelligence Revolution, a series exploring the new era of intelligence that humanity is now entering, where the limits of our own brains are being expanded by AI – making the impossible, possible.
+Willett is interested in further exploring inner speech in particular, with plans to investigate how other brain areas outside the motor cortex might be involved. "One area that we're interested in is the superior temporal gyrus," he says, referring to a brain area involved in auditory processing, which could also play a role in inner speech, for example "the auditory representations of what you're imagining hearing inside your head".
+Looking beyond the motor cortex could also be important for helping people who have brain lesions in this region, for example, stroke victims whose motor cortex is damaged, but who can still understand speech. Discovering the other areas of the brain that are involved in inner speech might one day be able to help these people communicate too, says Willett.
+
+
+Seeing is believing
+
+While brain-computer interface researchers focus on practical applications of the technology that can assist patients, there are other fields making progress on decoding brain scans and helping us better understand how the brain works.
+One area focuses on recreating images viewed by an individual simply by analysing brain scans with AI. It works like this: participants are shown images while their brain activity is recorded by functional magnetic resonance imaging (fMRI), a technique that measures brain activity by detecting changes in blood flow to different regions of the brain. The neural data is then decoded by an algorithm and fed into an AI image generator, which attempts to reproduce the images the subject saw.
+Researchers have been trying to crack this puzzle for decades, but the generative AI boom of recent years has given the field a significant boost. The latest AI image generators, such as Stable Diffusion, have vastly improved the quality of the images produced.
+Yu Takagi, associate professor at Nagoya Institute of Technology in Japan, published a 2023 study following this method that used a Stable Diffusion algorithm. The algorithm was trained on an online data set created by the University of Minnesota, consisting of brain scans from four participants as they each viewed a set of 10,000 photos. In many cases, the AI was able to render a passable impression of the original image – although it was completely stumped by a salad bowl.  
+The field is now advancing quickly. A study published last year by researchers in Israel managed to reproduce even more accurate images. 
+Such studies have helped illuminate how the brain processes visual information, says Takagi. It turns out that two different parts of the brain are crucial. The occipital lobe, located at the back of the brain, encodes the "low level" visual aspects of an image such as layout, perspective, and colour. Meanwhile, the temporal lobe, sitting behind the temples, encodes "high level" conceptual elements involved in classifying what an object actually is.
+
+
+The sound of music
+
+There are ongoing efforts to reconstruct auditory experiences too. In 2025, Takagi published a study which used a proprietary Google algorithm to attempt to reproduce audio from fMRI scans taken while subjects listened to pieces of music.
+Takagi says this can be more challenging than reconstructing visual inputs, because music is constantly changing, but the fMRI scanner can only complete scans at intervals of one second. "The reconstruction quality is lower compared to the image reconstruction," says Takagi. "But we were still able to reconstruct the character of the music and the basic category."
+This field has added to our understanding of the neural basis of music perception.
+"What surprised us in this study is that music perception in the brain is different from image perception," says Takagi. "For images, the high-level information and the low-level information have distinct locations in the brain. For music, we found that semantics and low-level information are not separated."
+Takagi is excited about some of the potential applications of these approaches. They could recreate the auditory and visual hallucinations of psychiatric patients such as schizophrenics to better understand their conditions, he says. The techniques could be used to recreate what animals experience as they process the world, or even to reconstruct dreams.
+"Many people are asking about that," says Takagi with a laugh. He says he would like to recreate dreams one day, but right now, it remains extremely complicated. Some research has even raised the prospect of direct brain-to-brain communication, including with multiple people at once, although the ethical implications and human rights issues related to devices that allow this have still to be fully unravelled.
+For those hoping it might also be possible to stimulate visual or auditory experiences in the brain in the name of entertainment, Takagi advises patience. While this is theoretically possible, he says technical limitations means it probably won't happen for another 10 to 20 years.  
